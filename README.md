@@ -2,8 +2,8 @@
 
 ## Student Details
 
-** Name:Akhrang Boro
-** Roll No:220710007010
+** Name: Akhrang Boro
+** Roll No: 220710007010
 
 # Assignment Overview
 
