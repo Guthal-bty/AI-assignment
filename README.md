@@ -2,8 +2,8 @@
 
 ## Student Details
 
-** Name: Akhrang Boro
-** Roll No: 220710007010
+** Name: Guthal Basumatary
+** Roll No: 220710007026
 
 # Assignment Overview
 
